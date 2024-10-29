@@ -1,4 +1,4 @@
-## Olá, sou a Raama, estudante de Marketing e Sistemas para Internet!
+## Olá, eu sou a Raama
 <div>
   <a href="https://github.com/raamajordao">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=raamajordao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
