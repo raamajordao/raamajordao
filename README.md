@@ -1,5 +1,5 @@
 ## Olá, eu sou a Raama ✨
-• Estudante de Marketing e Sistemas para Internet
+• Estudante de Engenharia da Computação e Sistemas para Internet
 
 #
 <img align="right" alt="" height="190px" src="./src/study.gif">
